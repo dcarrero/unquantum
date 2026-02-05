@@ -1,12 +1,17 @@
 // UnQuantum - A modern decompressor for the Quantum archive format (.Q)
 //
+// Copyright (c) 2026 David Carrero Fernandez-Baillo
+// https://carrero.es
+// License: MIT (see LICENSE file)
+// Repository: https://github.com/dcarrero/unquantum
+//
 // The Quantum compression format was created by David Stafford of Cinematronics
 // (Austin, TX) circa 1993-1995. It uses LZ77 combined with arithmetic coding.
 //
 // This implementation is based on:
 // - QUANTUM.DOC (official archive format specification)
-// - libmspack by Stuart Caie (LGPL 2.1) - Quantum decompressor for CAB files
-// - Research by Matthew Russotto on the Quantum compressed data format
+// - libmspack by Stuart Caie (https://www.cabextract.org.uk/libmspack/)
+// - Research by Matthew Russotto (http://www.russotto.net/quantumcomp.html)
 // - Reverse engineering of UNPAQ.EXE and PAQ.EXE v0.97 by Cinematronics
 //
 // This tool handles standalone .Q archive files (not CAB-embedded Quantum).
