@@ -1,0 +1,15 @@
+[package]
+name = "unquantum"
+version = "0.1.0"
+edition = "2021"
+description = "A modern decompressor for the Quantum archive format (.Q) by Cinematronics"
+license = "MIT"
+authors = ["David Carrero Fernandez-Baillo"]
+keywords = ["quantum", "compression", "archive", "decompressor", "dos"]
+repository = "https://github.com/dcarrero/unquantum"
+
+[dependencies]
+
+[profile.release]
+opt-level = 3
+lto = true
