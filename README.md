@@ -2,7 +2,7 @@
 
 A modern decompressor for the **Quantum archive format (.Q)**, originally created by David Stafford of Cinematronics (Austin, TX, 1993-1995).
 
-More context about this format and its recovery: [Rescatando pasado digital: formato de compresion Q (Quantum) MS-DOS](https://carrero.es/rescatando-pasado-digital-formato-de-compresion-q-quantum-ms-dos/)
+More context about this format and its recovery: [Rescatando pasado digital: formato de compresion Q (Quantum) MS-DOS](https://carrero.es/rescatando-pasado-digital-formato-de-compresion-q-quantum-ms-dos/) (Spanish; "Rescuing digital past: Q (Quantum) MS-DOS compression format")
 
 Written in Rust for cross-platform support on **Linux**, **macOS** and **Windows**.
 
