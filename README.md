@@ -196,6 +196,6 @@ MIT
 ## Credits
 
 - **David Stafford / Cinematronics** - Original Quantum compression algorithm (1993-1995)
-- **Matthew Russotto** - Reverse engineering of the Quantum compressed data format
-- **Stuart Caie** - libmspack Quantum decompressor implementation
-- **David Carrero Fernandez-Baillo** - This Rust reimplementation and digital preservation effort
+- **[Matthew Russotto](http://www.russotto.net/quantumcomp.html)** - Reverse engineering of the Quantum compressed data format
+- **[Stuart Caie](https://www.cabextract.org.uk/libmspack/)** - libmspack Quantum decompressor implementation
+- **[David Carrero Fernandez-Baillo](https://carrero.es)** - This Rust reimplementation and digital preservation effort
