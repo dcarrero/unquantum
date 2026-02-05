@@ -688,7 +688,10 @@ EXAMPLES:
     unquantum -l archive.q           List contents of archive
     unquantum -i archive.q           Show archive details
     unquantum -x -d -o out archive.q Extract with directories to 'out/'
-    unquantum -t archive.q           Test archive integrity"#
+    unquantum -t archive.q           Test archive integrity
+
+Author: David Carrero Fernandez-Baillo (https://carrero.es)
+License: MIT | https://github.com/dcarrero/unquantum"#
     );
 }
 
